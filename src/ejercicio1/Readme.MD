@@ -1,7 +1,7 @@
 # EJERCICIO 1: 
 ## TODAS LAS CLASES PERTENECIENTES A ESTE EJERCICIO
 ## SE CREARÁN DENTRO DE PAQUETE LLAMADO EJERCICIO1.
-1. Crear una clase Empleado con las siguientes propiedades:
+** 1. Crear una clase `Empleado` con las siguientes propiedades: ** 
 int id;
 String nombre;
 int edad;
