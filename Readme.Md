@@ -12,4 +12,4 @@
 
 ## **Ejercicios**
 
-1. [**Ejercicio 1**](./src/ejercicio1/Readme.MD)
+1. [**Trabajo Practico 1**](./src/ejercicio1/Readme.MD)
