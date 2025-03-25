@@ -3,10 +3,11 @@
 ---
 
 ## **Integrantes**
-- Maximiliano Martish  
-- Nicolás  
-- Axel  
-- Adrián Abadín  
+- Maximiliano Martitsch  
+- Nicolas Van Gaez  
+- Luvaglio Axel
+- Adrián Daniel Abadín  
+- Francisco Cytryn
 
 ---
 
