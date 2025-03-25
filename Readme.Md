@@ -7,4 +7,4 @@
 * Adrian Abadin 
 
 ## Ejercicios 
-[Ejercicio 1](./src/ejercicio1/Readme.MD)
+* [Ejercicio 1](./src/ejercicio1/Readme.MD)
